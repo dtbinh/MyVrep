@@ -1,6 +1,5 @@
 package myvrepexp;
 
-import hardware.MyVrep;
 import coppelia.IntW;
 
 public class AstiExp {
