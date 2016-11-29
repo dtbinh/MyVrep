@@ -1,6 +1,5 @@
 package myvrepexp;
 
-import hardware.MyVrep;
 import abstractrobot.IdManager;
 import abstractrobot.JointHelper;
 import coppelia.IntW;
